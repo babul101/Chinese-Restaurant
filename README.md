@@ -1,2 +1,0 @@
-# Chinese-Restaurant
-Chinese Restaurant
